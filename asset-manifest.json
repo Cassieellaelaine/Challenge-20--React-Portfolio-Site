@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Challenge-20--React-Portfolio-Site/static/css/main.c4b172cb.css",
+    "main.js": "/Challenge-20--React-Portfolio-Site/static/js/main.6c0cde06.js",
+    "static/media/100921Cassie_Owens110.jpg": "/Challenge-20--React-Portfolio-Site/static/media/100921Cassie_Owens110.ecccab6d940c4fa8a231.jpg",
+    "index.html": "/Challenge-20--React-Portfolio-Site/index.html",
+    "main.c4b172cb.css.map": "/Challenge-20--React-Portfolio-Site/static/css/main.c4b172cb.css.map",
+    "main.6c0cde06.js.map": "/Challenge-20--React-Portfolio-Site/static/js/main.6c0cde06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4b172cb.css",
+    "static/js/main.6c0cde06.js"
+  ]
+}
