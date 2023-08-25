@@ -31,4 +31,6 @@ WHEN I am presented with the Resume section
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
-# Note: I do not have a third platform account.
+![image](https://github.com/Cassieellaelaine/Challenge-20--React-Portfolio-Site/assets/129123349/b17f8487-2cba-452b-aee3-c2fe21b1decf)
+
+# Note: I do not have a third platform account. To access the links to the apps under the Projects section of the website, please click on the images instead of the names of the Apps/Projects.
